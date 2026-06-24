@@ -11,6 +11,13 @@
           "text-size-adjust"
         ]
       }
+    ],
+    "disown-opener": "off",
+    "axe/structure": [
+      "default",
+      {
+        "listitem": "off"
+      }
     ]
   }
 }
